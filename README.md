@@ -1,4 +1,4 @@
-# ESPixelStick_Mods_for_Battery_Voltage
+# ESPixelStick_Battery_Voltage
 ESPixelStick_Battery_Voltage
 
 Features were added to ESPixelStick v1.3 to allow monitoring of the pixel supply voltage, in the case where the pixels are powered from a 12V battery.  This is to prevent operation of the light show under insufficient battery voltage, which causes  errors and glitching in the display when the voltage becomes too low.  
